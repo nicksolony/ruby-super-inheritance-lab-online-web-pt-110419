@@ -1,3 +1,3 @@
-class ChattyStudent < User
+class ChattyStudent < Student
   
 end
